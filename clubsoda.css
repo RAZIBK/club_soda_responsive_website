@@ -1,0 +1,310 @@
+
+.nav-btn-section{
+    width: 23vw;
+}
+.first{
+    display: flex;
+    justify-content: center;
+}
+.header{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-text-style{
+    font-family: Archivo, sans-serif;
+    font-size:16.5px;
+    font-weight: 100;
+    color: rgb(227, 10, 94);
+    text-decoration: none;
+}
+.navbar-text-style1{
+    font-family: Archivo, sans-serif;
+    font-size:14px;
+    font-weight: 100;
+    color: rgb(227, 10, 94);
+    text-decoration: none;
+}
+.offcanvas-body{
+    width:249px;
+}
+.element.style{
+    width:249px;
+    padding: 0px;
+}
+.offcanvas-start{
+    width:249px;
+    padding: 0px;
+}
+.navbar-ul{
+    list-style-type: none;
+    padding-left: 0%;
+}
+.modal-backdrop.show {
+    opacity: .1;
+}
+li{
+    padding: 15px 30px 15px 30px;
+}
+.logo{
+    width:"200px";
+    height:"80px";
+    padding-top: 20px;
+}
+.login-text{
+    font-family: Archivo, sans-serif;
+    font-size:14px;
+    font-weight: 100;
+    
+    text-decoration: none;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:78%;
+}
+.Welcome-to-Club-Soda-img{
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+    background-image: url(IMAGES/Welcome-to-Club-Soda-drink-mindfully-and-live-well.jpg);
+    width: 180vh;
+    height: 60vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content:end ; 
+}
+.Welcome-to-Club-Soda-img1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    background-image: url(IMAGES/Welcome-to-Club-Soda-drink-mindfully-and-live-well.jpg);
+    width: 150vh;
+    height: 55vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content:end ;
+}
+.Welcome-to-Club-Soda-text{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    width: 55%;
+    height: 20%;
+    background-color: white;
+    font-size: 48px;
+}
+.Welcome-to-Club-Soda-text1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    width: 55%;
+    height: 20%;
+    background-color: white;
+    font-size: 46px;
+}
+.Club-Soda-helps-section{
+    width:150vh;
+    background-position: center;
+}
+.Club-Soda-helps-text{
+    font-family: Merriweather, serif;
+    Font-size: 18px;
+    Font-weight: 100;
+    Line-height: 28.8px;
+    color: rgb(117, 111, 132); 
+}
+.Start-your-free-butten-section{
+    display: flex;
+    position: relative; 
+    width: 150vh;
+}
+.Start-your-btn{
+    justify-items: flex-start;
+    width: 268px;
+    height: 55px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.Start-your-btn:hover{
+    background-color: #790535;
+}
+.Start-your-btn1{
+    justify-items: flex-start;
+    width: 400px;
+    height: 55px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.How-Club-Soda-text{
+    font-family: Archivo, sans-serif;
+    Font-size: 2ev;
+    Font-weight: 700;
+    Line-height: 39px;
+    color: rgb(34, 34, 34);
+}
+.In-the-last-seven-text{
+    font-family: Merriweather, serif;
+    Font-size:18px;
+    Font-weight: 100;
+    Line-height: 28.8px;
+    color: rgb(117, 111, 132)
+}
+.In-the-last-seven-text1{
+    font-family: Merriweather, serif;
+    Font-size:17px;
+    Font-weight: 100;
+    Line-height: 28.8px;
+    color: rgb(117, 111, 132)
+}
+.section1{
+    margin-left: 25px;
+    margin-left: 25px;
+}
+.card-text1{
+    font-family: Merriweather, serif;
+    Font-size: 15px;
+    Font-weight: 100; 
+    color: rgb(117, 111, 132)
+}
+.Change-your-btn{
+    justify-items: flex-start;
+    width: 235px;
+    height: 55px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.Change-your-btn:hover{
+    background-color: #790535;
+}
+.Change-your-btn1{
+    width: 410px;
+    height: 55px;
+    justify-items: flex-start;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.Change-your-btn1:hover{
+    background-color: #790535;
+}
+.card-margin{
+    margin: top 15px;;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Inspiration-to-drink-section{
+    background-color:  #e0e0e0;
+    height: auto;
+}
+.Inspiration-to-drink{
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 150vh;
+}
+.main1{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.Read-more-btn{
+    justify-items: flex-start;
+    width: 164px;
+    height: 52px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+.Read-more-btn:hover{
+    background-color: #790535;
+}
+.card-text{
+    font-family: Merriweather, serif;
+    Font-size: 21px;
+    Font-weight: 100;
+    Line-height: 38.4px;
+    color: rgb(117, 111, 132);
+}
+.card-footer{
+    font-family: Merriweather, serif;
+    Font-size: 15.6px;
+    Font-weight: 100;
+    color: rgb(117, 111, 132);
+    line-height: 15.6px;
+}
+.card-title{
+    font-family: Archivo, sans-serif;
+    Font-size: 23px;
+    Font-weight: 700;
+    Line-height: 28px;
+    color: rgb(227, 10, 94);
+    text-decoration: none;
+}
+.footer{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    line-height: 1.8em;
+    margin-top: 3em;
+    background-color:#465f63;
+    color: white;
+    
+}.icons{
+    display: flex;
+    justify-content: space-evenly; 
+}
+.button{
+    justify-items: flex-start;
+    width: 350px;
+    height: 50px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+}S
+    .button:hover{
+    background-color: #3c0118;
+    text-decoration: underline;
+}
+
+.footer-list{
+    font-family: Merriweather, serif;
+    Font-size: 14px;
+    Font-weight: 100;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.footer-list:hover{
+    color: rgb(255, 255, 255);
+    text-decoration:underline;
+}
